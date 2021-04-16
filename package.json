@@ -1,0 +1,12 @@
+{
+  "name": "firestore-sql-sync",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/cjrutherford/firestore-sql-sync.git",
+  "author": "Chris Rutherford <therealchrisrutherford@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@google-cloud/firestore": "^4.9.9",
+    "mysql": "^2.18.1"
+  }
+}
